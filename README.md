@@ -138,12 +138,13 @@ if err != nil {
 }
 ```
 
-Example Outputs
+## Example Outputs
 Here are some sample identicons generated using the package:
 
 ![Identicons1](./docs/images/avatar_1.png)
 ![Identicons2](./docs/images/avatar_2.png)
 ![Identicons3](./docs/images/avatar_3.png)
+![Identicons4](./docs/images/avatar_4.png)
 
 ## Contributing
 
